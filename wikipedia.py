@@ -1,5 +1,6 @@
 # (C) Artemis
 # MIT License
+# DISCORD : ARTEMIS#1551
 
 import wikipedia
 import os
